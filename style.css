@@ -1,0 +1,13 @@
+/* Styles go here */
+
+a {
+  color: blue ;
+  cursor: pointer ;
+  text-decoration: underline ;
+}
+
+.dummyComponent{
+  height: 400px;
+  width: 200px;;
+  background-color: purple;
+} 
